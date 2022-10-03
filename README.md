@@ -6,23 +6,18 @@
 
 Повторил расчёты и построил графики из первой лабораторной со значеними варианта 21.
 
-![1.1](https://user-images.githubusercontent.com/94290501/193245197-b507c470-c6cd-49f0-91da-fdfb1ed83fd8.jpg)
+![1](https://user-images.githubusercontent.com/94290501/193658517-e1abf8bc-c15b-4533-8264-81466f6c48bf.jpg)
 
 Кривая MSE на обучающей выборке стабильно снижается с ростом узлов сплайна. Чем больше наблюдений, через которые прошёл сплайн, тем точнее модель. Это говорит о переобучении. Лучшую модель следуют выбирать по минимуму на кривой MSE на тестовой выборке.
 
-![1.2](https://user-images.githubusercontent.com/94290501/193245237-94d7b223-1eed-4584-9d27-30e086684198.jpg)
-
 Задача 2.1
 
-![2.1.1](https://user-images.githubusercontent.com/94290501/193245259-abdce623-d41d-42c3-9c8a-a61e21cfcaa0.jpg)
-![2.1.2](https://user-images.githubusercontent.com/94290501/193245270-3655588d-8b75-4ed4-8b05-bfb0f871e487.jpg)
+![2 1](https://user-images.githubusercontent.com/94290501/193658567-15cc1f8d-c840-4044-99ca-a7126752a27a.jpg)
 
 Задача 2.2
 
-![2.2.1](https://user-images.githubusercontent.com/94290501/193245282-3ac06cc3-392f-4942-b32b-b0bf72dd63a8.jpg)
-![2.2.2](https://user-images.githubusercontent.com/94290501/193245289-077f5322-eb88-4167-b26a-bba6f06108fc.jpg)
+![2 2](https://user-images.githubusercontent.com/94290501/193658600-518ac9e4-60c8-4b7c-acce-59860f80a9c1.jpg)
 
 Задача 2.3
 
-![2.3.1](https://user-images.githubusercontent.com/94290501/193245303-34190b8c-2caa-4d34-ab27-61176c98ffde.jpg)
-![2.3.2](https://user-images.githubusercontent.com/94290501/193245325-649fd5a6-2cf0-4b71-8a84-7d5e83fb8c54.jpg)
+![2 3](https://user-images.githubusercontent.com/94290501/193658639-fa0843f9-e9c7-4e44-a3bb-54c6e5fe458b.jpg)
