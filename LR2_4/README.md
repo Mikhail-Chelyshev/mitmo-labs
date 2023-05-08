@@ -25,25 +25,7 @@
 
 ![5](https://user-images.githubusercontent.com/94290501/236832626-da21e74d-9d47-44f3-ae9f-fedeebf1e738.png)
 
-Results of Dickey-Fuller Test:
-
-p-value = 0.8114. The series is likely non-stationary.
-
-Test Statistic                   -0.825767
-
-p-value                           0.811436
-
-#Lags Used                       18.000000
-
-Number of Observations Used    2772.000000
-
-Critical Value (1%)              -3.432711
-
-Critical Value (5%)              -2.862583
-
-Critical Value (10%)             -2.567325
-
-dtype: float64
+![Dickey-Fuller](https://user-images.githubusercontent.com/94290501/236833312-c655205a-1dd5-438d-99d5-97811eaaa025.png)
 
 На основании теста Dickey-Fuller, можно сделать вывод о том, что временной ряд не является стационарным. Это подтверждается значением p-value, превышающим уровень значимости 0.05, и недостаточным значением тестовой статистики для отклонения от нулевой гипотезы о нестационарности ряда.
 
